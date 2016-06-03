@@ -12,8 +12,6 @@ class Operation {
         let result:Double = 0.0
         return result
     }
-    
-    
 }
 
 class OperationAdd: Operation {
